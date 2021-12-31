@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset='utf-8'>
+  <title>Software Skills</title>
+ </head>
+ 
+ <body>
+  <h3>Code Languages</h3>
+  <ol>
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>JavaScript</li>
+  </ul>
+  </body>
+  
+  </html>
+<!DOCTYPE html>
+<html>
+
+ <head>
+  <meta charset='utf-8'>
+  <title>Here Is The Archipekt</title>
+ </head>
+ 
+ <body>
+ <table cellspacing='20'>
+ <tr>
+  <td>
+  <img src='C:\Users\ipek_\Desktop\Web Development\HTML-Personal Site\pp.jpg' alt='archipek profile picture'>
+  </td>
+  <td>
+  <h1>Archipekt</h1>
+  <p><em>Interior Architect and <strong>Fresh Web Developer</strong></em></p>
+  <hr size'3' noshade>
+  <p>I am a newly graduated Interior Architect.
+  I live in Turkey and we are having trouble finding a job here in our sector.
+  So I decided to look for new skills.
+  I've always been curious about the Internet, computers and coding.
+  I've been learning HTML for 2 days now, I want to learn more and more.
+  This is very satisfying.</p>
+  <hr size'3' noshade>
+  <br>
+  </td>
+ </tr>
+ </table>
+ 
+ <h3>Software Skills</h3>
+
+ 
+<table>
+<tr>
+<td> 
+  <table>
+  <tr>
+   <td>Photoshop</td>
+   <td>⭐⭐⭐⭐</td>
+  </tr>  
+  <tr>
+   <td>Illustrator</td>
+   <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+   <td>Autocad</td>
+   <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  </table>
+</td>
+<td>
+  <table>
+  <tr>
+   <td>SketchUP</td>
+   <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+   <td>3Ds Max</td>
+   <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+   <td>Maya</td>
+   <td>⭐⭐⭐</td>
+  </tr>
+  </table>  
+</td>
+</tr>
+</table> 
+ 
+
+  <a href='C:\Users\ipek_\Desktop\Web Development\HTML-Personal Site\Code Languages.html'><h2>Code Languages</h2></a>
+  <br>
+  
+<hr size'3' noshade> 
+  <h2>Experience Table</h2>
+  <table cellspacing='20'>
+   <thead>
+    <tr>
+	 <th>Tasks</th>
+	 <th>Dates</th>
+	 <th>Companies</th>
+	</tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>Şantiye Stajı</td>
+	 <td>2015 - Summer</td>
+	 <td>Baş Yapı Mimarlık</td>
+    </tr>
+    <tr>
+     <td>Atölye Stajı</td>
+	 <td>2018 - Summer</td>
+	 <td>Netse Yapı İnşaat</td>
+    </tr>
+    <tr>
+     <td>Büro Stajı</td>
+	 <td>2020 - Fall</td>
+	 <td>Çukurova University</td>
+    </tr>
+   </tbody>
+  </table>
+  <hr size'3' noshade>
+
+   <br><h3>Contact Me</h3>
+  ig: <a href='https://www.instagram.com/archipekt/'><strong>archipekt</strong></a>
+  <br>
+  ✉  archipekt@gmail.com
+  <br>
+  <hr size='2' noshade>
+  <form action='mailto:ipekaleli74@gmail.com' method='post' enctype='text/plain'>
+   <label>Your Name:</label>
+   <input type='text' name='YourName' value=''><br>
+   <label>Your Email</label>
+   <input type='email' name='YourEmail' value=''><br>
+   <label>Your Message:</label><br>
+   <textarea name='YourMessage' rows='10' cols='30'></textarea><br>
+   <input type='submit' name=''>
+  </form> 
+   
+  <p>If you want to check out my LinkedIn profile, just click
+  <strong><a href='https://www.linkedin.com/in/ipek-kaleli-74b575219/'>here</a></strong>.
+  </p>
+  
+ </body>
+ 
+</html>
+
+
